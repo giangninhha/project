@@ -43,7 +43,7 @@
       <li class="nav-item active">
         <a class="nav-link" href="index.php">
           <i class="mdi mdi-home menu-icon"></i>
-          <span>AN HẠ ADMIN</span></a>
+          <span>mixi ADMIN</span></a>
       </li>
 
       <!-- Divider -->
