@@ -11,7 +11,7 @@
 	<div class=" alert alert-primary">
 	  <h4 class="page-title">
 	    <span class="page-title-icon bg-gradient-primary text-white mr-2">
-	    </span> ADMIN - AN HẠ SHOP&#160;<i class="fas fa-chevron-right" style="font-size: 18px"></i>&#160; Doanh Thu</h4>
+	    </span> ADMIN - mixi SHOP&#160;<i class="fas fa-chevron-right" style="font-size: 18px"></i>&#160; Doanh Thu</h4>
 	</div><br>
 	<div  class="row">
 		<form class="col-xl-3 col-md-6 mb-4" action="danhthu/xuly.php" method="POST" accept-charset="utf-8">
