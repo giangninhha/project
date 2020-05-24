@@ -17,7 +17,7 @@
 	  <h4 class="page-title">
 	    <span class="page-title-icon bg-gradient-primary text-white mr-2">
 	      
-	    </span> ADMIN - AN HẠ SHOP&#160;<i class="fas fa-chevron-right" style="font-size: 18px"></i>&#160; Sản Phẩm</h4>
+	    </span> ADMIN - mixi SHOP&#160;<i class="fas fa-chevron-right" style="font-size: 18px"></i>&#160; Sản Phẩm</h4>
 	</div>
 	<div class="card card-body ">
 			<?php include_once('sanpham/main.php');?>
