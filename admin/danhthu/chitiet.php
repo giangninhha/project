@@ -50,7 +50,7 @@ if(isset($_GET['tu']) && isset($_GET['den'])){
 	<div class=" alert alert-primary">
 	  	<h4 class="page-title">
 		    <span class="page-title-icon bg-gradient-primary text-white mr-2">  
-		    </span> ADMIN - AN HẠ SHOP&#160;<i class="fas fa-chevron-right" style="font-size: 18px"></i>&#160; Doanh Thu&#160;<i class="fas fa-chevron-right" style="font-size: 18px"></i>&#160;  <?php echo $tu.' Đến '. $den ?>
+		    </span> ADMIN - mixi SHOP&#160;<i class="fas fa-chevron-right" style="font-size: 18px"></i>&#160; Doanh Thu&#160;<i class="fas fa-chevron-right" style="font-size: 18px"></i>&#160;  <?php echo $tu.' Đến '. $den ?>
 		</h4>
 	</div><br>
 <table class="table table-hover m-auto text-center" style="font-size: 13px;">
