@@ -17,7 +17,7 @@
 	<div class=" alert alert-primary">
 	  <h4 class="page-title">
 	    <span class="page-title-icon bg-gradient-primary text-white mr-2">
-	    </span> ADMIN - AN HẠ SHOP&#160;<i class="fas fa-chevron-right" style="font-size: 18px"></i>&#160; Đơn Đặt Hàng</h4>
+	    </span> ADMIN - mixi SHOP&#160;<i class="fas fa-chevron-right" style="font-size: 18px"></i>&#160; Đơn Đặt Hàng</h4>
 	</div>
 	<br>
 
