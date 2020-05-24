@@ -11,7 +11,7 @@
 		<div class=" alert alert-primary">
 		  <h4 class="page-title">
 		    <span class="page-title-icon bg-gradient-primary text-white mr-2">
-		    </span> ADMIN - AN HẠ SHOP&#160;<i class="fas fa-chevron-right" style="font-size: 18px"></i>&#160; Kho Hàng &#160;<i class="fas fa-chevron-right" style="font-size: 18px"></i>&#160;Xuất / Nhập Kho &#160;<i class="fas fa-chevron-right" style="font-size: 18px"></i>&#160; <?php echo $t ?> &#160;<i class="fas fa-chevron-right" style="font-size: 18px"></i>&#160; <?php echo $mau ?></h4>
+		    </span> ADMIN - mixi SHOP&#160;<i class="fas fa-chevron-right" style="font-size: 18px"></i>&#160; Kho Hàng &#160;<i class="fas fa-chevron-right" style="font-size: 18px"></i>&#160;Xuất / Nhập Kho &#160;<i class="fas fa-chevron-right" style="font-size: 18px"></i>&#160; <?php echo $t ?> &#160;<i class="fas fa-chevron-right" style="font-size: 18px"></i>&#160; <?php echo $mau ?></h4>
 		</div><br>
 		<div class="row">
 			<div class="col-md-5">
